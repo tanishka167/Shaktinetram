@@ -1,0 +1,5 @@
+<root>
+    <item name='android.os.Looper android.os.Looper myLooper()'>
+        <annotation name='androidx.annotation.Nullable' />
+    </item>
+</root>

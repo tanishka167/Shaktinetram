@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813692573011",
+    "project_id": "shaktinetram",
+    "storage_bucket": "shaktinetram.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813692573011:android:b60bd3dac526527cc27da6",
+        "android_client_info": {
+          "package_name": "com.example.shaktinetram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GTrg1DXnAVF1y626bN9S43RYpWtR2s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
